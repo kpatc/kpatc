@@ -24,9 +24,9 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 **Pipelines & Orchestration**  
 <p>
-  <img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" height="35" alt="Airflow"/>
+  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/wordmark_1.png" height="35" alt="Airflow"/>
   <img src="https://docs.dagster.io/assets/logos/small.png" height="35" alt="Dagster"/>
-  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" height="35" alt="dbt"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/getdbt_logo_icon_170303.png" height="35" alt="dbt"/>
   <img src="https://avatars.githubusercontent.com/u/59758427?s=200&v=4" height="35" alt="Airbyte"/>
 </p>
 
@@ -64,12 +64,12 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 **AI Agents & Automation**  
 <p>
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="35" alt="CrewAI"/>
-  <img src="https://avatars.githubusercontent.com/u/69029657?s=200&v=4" height="35" alt="n8n"/>
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="35" alt="n8n"/>
 </p>
 
 **Cloud Data Platforms**  
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-logo.svg" height="35" alt="Snowflake"/>
+  <img src="https://companieslogo.com/img/orig/SNOW-35164165.png" height="35" alt="Snowflake"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="35" alt="Databricks"/>
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="35" alt="BigQuery"/>
 </p>
