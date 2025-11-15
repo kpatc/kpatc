@@ -24,15 +24,16 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 **Pipelines & Orchestration**  
 <p>
-  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/wordmark_1.png" height="35" alt="Airflow"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="35" alt="Airflow"/>
   <img src="https://docs.dagster.io/assets/logos/small.png" height="35" alt="Dagster"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/getdbt_logo_icon_170303.png" height="35" alt="dbt"/>
+  <img src="https://github.com/dbt-labs/dbt-core/raw/main/etc/dbt-core.svg" height="35" alt="dbt"/>
   <img src="https://avatars.githubusercontent.com/u/59758427?s=200&v=4" height="35" alt="Airbyte"/>
 </p>
 
 **Big Data & Distributed**  
 <p>
   <img src="https://skillicons.dev/icons?i=kafka,spark" height="35"/>
+  <img src="https://raw.githubusercontent.com/apache/hadoop/trunk/hadoop-common-project/hadoop-common/src/site/resources/images/hadoop-logo.jpg" height="35" alt="Hadoop"/>
   <img src="https://skillicons.dev/icons?i=docker,linux" height="35"/>
 </p>
 
@@ -64,7 +65,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 **AI Agents & Automation**  
 <p>
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="35" alt="CrewAI"/>
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="35" alt="n8n"/>
+  <img src="https://cdn.prod.website-files.com/65b18d0da111867da4c10bc3/65b18d0da111867da4c10ca3_n8n-logo-sm.svg" height="35" alt="n8n"/>
 </p>
 
 **Cloud Data Platforms**  
