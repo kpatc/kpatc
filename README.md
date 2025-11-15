@@ -18,38 +18,33 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📊 Data Engineering & Big Data
+### 📊 Data Engineering
 
 **Pipelines & Orchestration**  
 <p>
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" height="35" alt="Airflow"/>
+  <img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" height="35" alt="Airflow"/>
   <img src="https://docs.dagster.io/assets/logos/small.png" height="35" alt="Dagster"/>
-  <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" height="35" alt="dbt"/>
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" height="35" alt="dbt"/>
   <img src="https://avatars.githubusercontent.com/u/59758427?s=200&v=4" height="35" alt="Airbyte"/>
 </p>
 
-**Big Data & Distributed Systems**  
+**Big Data & Distributed**  
 <p>
-  <img src="https://skillicons.dev/icons?i=kafka,spark,docker,linux" height="35"/>
+  <img src="https://skillicons.dev/icons?i=kafka,spark" height="35"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux" height="35"/>
 </p>
 
 **Databases & Storage**  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="35"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="35"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis" height="35"/>
   <img src="https://skillicons.dev/icons?i=neo4j" height="35"/>
 </p>
 
-**Cloud Data Platforms**  
-<p>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="35" alt="Snowflake"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="35" alt="Databricks"/>
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="35" alt="BigQuery"/>
-</p>
-
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🤖 Machine Learning & AI
 
@@ -60,18 +55,27 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" alt="scikit-learn"/>
 </p>
 
-**LLMs • NLP • RAG • Agents**  
+**LLMs • NLP • RAG**  
 <p>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="35" alt="HuggingFace"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="35" alt="LangChain"/>
+</p>
+
+**AI Agents & Automation**  
+<p>
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="35" alt="CrewAI"/>
   <img src="https://avatars.githubusercontent.com/u/69029657?s=200&v=4" height="35" alt="n8n"/>
 </p>
 
-**Model Deployment**  
+**Cloud Data Platforms**  
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-logo.svg" height="35" alt="Snowflake"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="35" alt="Databricks"/>
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="35" alt="BigQuery"/>
 </p>
+
+</td>
+<td width="33%" valign="top">
 
 ### ☁️ Cloud & DevOps
 
@@ -82,14 +86,21 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 **DevOps & Monitoring**  
 <p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,githubactions" height="35"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="35"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="35" alt="Prometheus"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="35" alt="Grafana"/>
 </p>
 
 **Backend Development**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi" height="35"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" height="35"/>
+  <img src="https://skillicons.dev/icons?i=java,spring" height="35"/>
+</p>
+
+**Model Deployment**  
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker" height="35"/>
 </p>
 
 </td>
