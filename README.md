@@ -79,6 +79,8 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 <p>
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="35" alt="CrewAI"/>
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/cfe2375d-8198-469f-ae58-ffe2d0ff24bf" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/089319dc-3571-4a89-81b4-ad51cd1e7a5e" />
+
 
 </p>
 
@@ -123,7 +125,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kpatc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -144,8 +146,5 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
   </a>
   <a href="mailto:josuekpatcha1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kpatc">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
