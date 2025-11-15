@@ -46,7 +46,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 <p>
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" height="35" alt="Hive"/>
   <img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" height="35" alt="Superset"/>
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/885dca3d-d853-4247-b664-1145aa08d0c3" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/885dca3d-d853-4247-b664-1145aa08d0c3" />
   <img src="https://skillicons.dev/icons?i=docker,linux" height="35"/>
 </p>
 
