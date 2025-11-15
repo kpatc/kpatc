@@ -38,7 +38,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 **Big Data & Distributed Systems**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="35" alt="Kafka"/>
+  <img width="40" height="35" alt="image" src="https://github.com/user-attachments/assets/73178094-2e6a-435a-a122-d727a55dc7bc" />
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" height="35" alt="Spark"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="35" alt="Hadoop"/>
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2e5eaaa4-1ab2-41fe-bdd5-07f83aae57f2" />
@@ -79,7 +79,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 <p>
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="35" alt="CrewAI"/>
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/cfe2375d-8198-469f-ae58-ffe2d0ff24bf" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/089319dc-3571-4a89-81b4-ad51cd1e7a5e" />
+  <img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/089319dc-3571-4a89-81b4-ad51cd1e7a5e" />
 
 
 </p>
