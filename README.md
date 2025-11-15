@@ -38,30 +38,14 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📡 **Healthcare Data Platform (Airflow • dbt • MinIO • Superset)**
-Automated ETL/ELT pipelines + dbt modeling + Great Expectations + dashboards for healthcare analytics.
-
-### 📶 **Telecom Big Data Mediation & Billing (PySpark • Kafka • PostgreSQL)**
-Real-time ingestion & transformation of millions of CDRs with automated rating & billing.
-
-### 🧬 **3D Medical Segmentation (PyTorch • KAN + 3D U-Net)**
-Custom Kolmogorov–Arnold layers improving accuracy by +3% over baseline.
-
-### ⚽ **AFCON 2025 AI Assistant (LangChain • RAG • FastAPI • ChromaDB)**
-Multilingual intelligent assistant with vector search & real-time tools integration.
-
-### 🌍 **Internet Access Prediction for Togo (XGBoost • PCA)**
-End-to-end ML pipeline for household connectivity prediction.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kpatc&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpatc&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
