@@ -10,52 +10,98 @@
 ## 👋 About Me (Short & Professional)
 
 🎓 Final-year Data Engineering student  
-🔧 I build scalable data pipelines, distributed systems & ML-powered APIs  
-☁️ Exploring GCP, Snowflake, Databricks & modern cloud data stacks  
-🤖 Passionate about Machine Learning, LLMs, RAG & agentic AI systems  
+🔧 I build scalable data pipelines, distributed systems & ML APIs  
+☁️ Cloud-focused: GCP, Snowflake, Databricks  
+🤖 ML, LLMs, NLP, RAG & agentic systems enthusiast  
 
 ---
 
-## 🛠 Technical Skills (Full Icons Only)
+# 🛠 Technical Skills (Full Icons Only)
 
-### 📊 **Data Engineering & Big Data**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis" height="45"/>
-  <img src="https://skillicons.dev/icons?i=kafka,spark,docker,linux" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github,git" height="45"/><br/>
+---
 
-  <!-- Extra icons not supported by skillicons.dev (airflow, dbt, databricks, snowflake, minio) -->
+## 📊 **Data Engineering & Big Data**
+
+### 🔹 **Pipelines & Orchestration**
+<p>
   <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/dagster-io/dagster/master/docs/source/assets/logo.png" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/airbyte/airbyte-icon.svg" height="45"/>
+</p>
+
+### 🔹 **Big Data & Distributed Systems**
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" height="45"/>
+  <img src="https://skillicons.dev/icons?i=spark" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="45"/>
+</p>
+
+### 🔹 **Databases & Storage**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/MinIO_Logo.svg" height="45"/>
+</p>
+
+### 🔹 **Cloud Data Platforms**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="45"/>
 </p>
 
 ---
 
-### 🤖 **Machine Learning, AI & NLP**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi" height="45"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="45"/>  
+## 🤖 **Machine Learning, AI & NLP**
 
-  <!-- Extra icons (HuggingFace, LangChain, LangGraph) -->
+### 🔹 **ML Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+</p>
+
+### 🔹 **LLMs • RAG • NLP**
+<p>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" height="45"/>
   <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/images/logo.png" height="45"/>
 </p>
 
+### 🔹 **Model Deployment**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+</p>
+
 ---
 
-### ☁️ **Cloud, DevOps & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github" height="45"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="45"/>
+## ☁️ **Cloud, DevOps & Backend**
 
-  <!-- Extra devops icons -->
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="45"/>
+### 🔹 **Cloud Providers**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="45"/>
+</p>
+
+### 🔹 **DevOps Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
+</p>
+
+### 🔹 **Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="45"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
 </p>
 
 ---
