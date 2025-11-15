@@ -1,52 +1,84 @@
-# Josué KPATCHA  
-### Data Engineering • Machine Learning • Cloud Analytics
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:003b76&height=260&section=header&text=Josué%20KPATCHA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
-I am a final-year Data Engineering student focusing on scalable data systems, distributed processing, and applied machine learning.  
-My work revolves around building reliable data platforms, designing end-to-end pipelines, and bridging engineering with AI.
+<h3 align="center">AI & Data Engineering Student • Machine Learning • Big Data • Cloud</h3>
 
----
-
-## Core Expertise
-
-- **Data Engineering:** ETL/ELT pipelines, Data Warehousing, Lakehouse architectures  
-- **Distributed Systems:** Kafka, Spark, Airflow, dbt  
-- **Machine Learning:** Classical ML, Deep Learning (PyTorch, TensorFlow)  
-- **Cloud:** GCP (BigQuery), AWS (S3, Lambda), Databricks  
-- **Backend & APIs:** FastAPI, Flask, microservices  
+<p align="center">
+  <img src="YOUR_IMAGE_URL" width="200" style="border-radius:50%">
+</p>
 
 ---
 
-## Selected Projects
+## 👋 About Me
 
-### **Healthcare Data Platform**
-Airflow • dbt • Great Expectations • Superset  
-Design and automation of a healthcare data platform with real-time and batch pipelines.
-
-### **Telecom Big Data Mediation**
-PySpark • Kafka • PostgreSQL  
-Distributed ingestion & transformation of CDR data streams for rating & billing.
-
-### **3D Medical Segmentation**
-PyTorch • KAN + 3D U-Net  
-Custom KAN modules integrated into a 3D U-Net pipeline (+3% improvement).
-
-### **AFCON 2025 AI Assistant**
-LangChain • RAG • FastAPI  
-Multilingual assistant with vector search and tool-based reasoning.
+📌 Final-year Data Engineering student at ENSA Al Hoceima  
+🚀 Passionate about Data Pipelines, Distributed Systems & Applied AI  
+🧠 I build data platforms, predictive models, and intelligent APIs  
+☁️ Exploring GCP, Snowflake, Databricks & scalable ML systems  
+🤖 Interested in LLMs, RAG, Agentic Systems & real-world AI automation  
 
 ---
 
-## Technical Stack
+## ⚡ Tech Stack
 
-**Languages:** Python, SQL, Java  
-**Data Workflow:** Airflow, Dagster, dbt, Airbyte  
-**Big Data:** Spark, Kafka  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-**Cloud:** GCP, AWS, Databricks  
-**ML/AI:** Scikit-learn, TensorFlow, PyTorch, LangChain, RAG  
+### 🛠 Data Engineering & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,aws,gcp,docker,kubernetes,linux" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,kafka" />
+</p>
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi" />
+</p>
 
 ---
 
-## Contact  
+## 🚀 Featured Projects
+
+### 📡 **Healthcare Data Platform (Airflow • dbt • MinIO • Superset)**
+Automated ETL/ELT pipelines + dbt modeling + Great Expectations + dashboards for healthcare analytics.
+
+### 📶 **Telecom Big Data Mediation & Billing (PySpark • Kafka • PostgreSQL)**
+Real-time ingestion & transformation of millions of CDRs with automated rating & billing.
+
+### 🧬 **3D Medical Segmentation (PyTorch • KAN + 3D U-Net)**
+Custom Kolmogorov–Arnold layers improving accuracy by +3% over baseline.
+
+### ⚽ **AFCON 2025 AI Assistant (LangChain • RAG • FastAPI • ChromaDB)**
+Multilingual intelligent assistant with vector search & real-time tools integration.
+
+### 🌍 **Internet Access Prediction for Togo (XGBoost • PCA)**
+End-to-end ML pipeline for household connectivity prediction.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Cloud Data Warehouses (BigQuery, Snowflake)  
+- Databricks Lakehouse Architecture  
+- Data Quality & Observability  
+- LLM Agents & RAG Systems  
+
+---
+
+## 📬 Contact
+
 📧 josuekpatcha1@gmail.com  
-🔗 LinkedIn – GitHub – Portfolio
+🌐 LinkedIn | GitHub | Portfolio  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b76&height=150&section=footer"/>
+</p>
