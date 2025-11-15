@@ -24,10 +24,10 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 **Pipelines & Orchestration**  
 <p>
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/dagster.svg" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/airbyte/airbyte-icon.svg" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" height="35" alt="Airflow"/>
+  <img src="https://docs.dagster.io/assets/logos/small.png" height="35" alt="Dagster"/>
+  <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" height="35" alt="dbt"/>
+  <img src="https://avatars.githubusercontent.com/u/59758427?s=200&v=4" height="35" alt="Airbyte"/>
 </p>
 
 **Big Data & Distributed Systems**  
@@ -38,14 +38,14 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 **Databases & Storage**  
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" height="35"/>
+  <img src="https://skillicons.dev/icons?i=neo4j" height="35"/>
 </p>
 
 **Cloud Data Platforms**  
 <p>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="35" alt="Snowflake"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="35" alt="Databricks"/>
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="35" alt="BigQuery"/>
 </p>
 
 </td>
@@ -56,15 +56,16 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 **ML Frameworks**  
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="35" alt="OpenCV"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" alt="scikit-learn"/>
 </p>
 
 **LLMs • NLP • RAG • Agents**  
 <p>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="35"/>
-  <img src="https://python.langchain.com/img/brand/wordmark.png" height="35"/>
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="35"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="35" alt="HuggingFace"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="35" alt="LangChain"/>
+  <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="35" alt="CrewAI"/>
+  <img src="https://avatars.githubusercontent.com/u/69029657?s=200&v=4" height="35" alt="n8n"/>
 </p>
 
 **Model Deployment**  
@@ -82,8 +83,8 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 **DevOps & Monitoring**  
 <p>
   <img src="https://skillicons.dev/icons?i=kubernetes,githubactions" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="35" alt="Prometheus"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="35" alt="Grafana"/>
 </p>
 
 **Backend Development**  
