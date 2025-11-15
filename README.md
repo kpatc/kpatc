@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:003b76&height=200&section=header&text=Josué%20KPATCHA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="center">🚀 Data Engineering • Machine Learning • Cloud Analytics</h3>
+<h3 align="center">Data Engineering • Machine Learning • Cloud Analytics</h3>
 
 ---
 
@@ -20,7 +20,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 <tr>
 <td width="33%" valign="top">
 
-### 📊 Data Engineering
+###  Data Engineering
 
 **Languages**  
 <p>
