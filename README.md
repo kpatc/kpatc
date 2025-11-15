@@ -46,7 +46,8 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 <p>
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" height="35" alt="Hive"/>
   <img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" height="35" alt="Superset"/>
-  <img src="https://docs.greatexpectations.io/docs/images/gx-mark-160.png" height="35" alt="Great Expectations"/>
+  <img src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4ee8778d-edd0-4b7c-98df-ec4126426095" />
+" height="35" alt="Great Expectations"/>
   <img src="https://skillicons.dev/icons?i=docker,linux" height="35"/>
 </p>
 
