@@ -1,52 +1,52 @@
-<h1 align="center">Hi, I'm Josué KPATCHA 👋</h1>
-<h3 align="center">Data Engineer & Machine Learning Enthusiast</h3>
+# Josué KPATCHA  
+### Data Engineering • Machine Learning • Cloud Analytics
+
+I am a final-year Data Engineering student focusing on scalable data systems, distributed processing, and applied machine learning.  
+My work revolves around building reliable data platforms, designing end-to-end pipelines, and bridging engineering with AI.
 
 ---
 
-## 🧠 About Me
-I build scalable data systems and applied AI solutions.  
-My interests include distributed data processing, analytics engineering, and modern ML architectures.
+## Core Expertise
+
+- **Data Engineering:** ETL/ELT pipelines, Data Warehousing, Lakehouse architectures  
+- **Distributed Systems:** Kafka, Spark, Airflow, dbt  
+- **Machine Learning:** Classical ML, Deep Learning (PyTorch, TensorFlow)  
+- **Cloud:** GCP (BigQuery), AWS (S3, Lambda), Databricks  
+- **Backend & APIs:** FastAPI, Flask, microservices  
 
 ---
 
-## 🛠 Technical Skills
+## Selected Projects
 
-### **Data Engineering**
-- Airflow, Airbyte, dbt  
-- Kafka, Spark, ETL/ELT pipelines  
-- Data Lakes (MinIO), Warehouses, Lakehouse design  
+### **Healthcare Data Platform**
+Airflow • dbt • Great Expectations • Superset  
+Design and automation of a healthcare data platform with real-time and batch pipelines.
 
-### **Machine Learning & AI**
-- Scikit-learn, PyTorch, TensorFlow  
-- NLP • Transformers • RAG • LangChain  
-- Model deployment with FastAPI  
+### **Telecom Big Data Mediation**
+PySpark • Kafka • PostgreSQL  
+Distributed ingestion & transformation of CDR data streams for rating & billing.
 
-### **Cloud & DevOps**
-- GCP (BigQuery), AWS (S3, Lambda)  
-- Docker, Kubernetes  
-- CI/CD (GitHub Actions)  
+### **3D Medical Segmentation**
+PyTorch • KAN + 3D U-Net  
+Custom KAN modules integrated into a 3D U-Net pipeline (+3% improvement).
 
----
-
-## 🚀 Highlighted Projects
-
-- **Healthcare Data Platform** – End-to-end data analytics stack (Airflow, dbt, Great Expectations, Superset).  
-- **Telecom Big Data Billing** – Real-time CDR ingestion (PySpark, Kafka).  
-- **Medical Segmentation (3D U-Net + KAN)** – Custom deep learning model improving baseline results.  
-- **AFCON AI Assistant** – Multilingual RAG-based chatbot for real-time event information.  
-- **Internet Access Prediction** – ML pipeline using XGBoost + PCA.
+### **AFCON 2025 AI Assistant**
+LangChain • RAG • FastAPI  
+Multilingual assistant with vector search and tool-based reasoning.
 
 ---
 
-## 📈 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true"/>
-</p>
+## Technical Stack
+
+**Languages:** Python, SQL, Java  
+**Data Workflow:** Airflow, Dagster, dbt, Airbyte  
+**Big Data:** Spark, Kafka  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**Cloud:** GCP, AWS, Databricks  
+**ML/AI:** Scikit-learn, TensorFlow, PyTorch, LangChain, RAG  
 
 ---
 
-## 📬 Contact
+## Contact  
 📧 josuekpatcha1@gmail.com  
-🔗 LinkedIn | GitHub | Portfolio  
-
----
+🔗 LinkedIn – GitHub – Portfolio
