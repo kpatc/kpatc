@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:003b76&height=200&section=header&text=Josué%20KPATCHA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="center">🚀 Data Engineering • Machine Learning • Cloud Analytics</h3>
+<h3 align="center"> Data Engineering • Machine Learning • Cloud Analytics</h3>
 
 ---
 
@@ -20,7 +20,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 <tr>
 <td width="33%" valign="top">
 
-### 📊 Data Engineering
+### Data Engineering
 
 **Languages**  
 <p>
@@ -36,11 +36,17 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
   <img src="https://avatars.githubusercontent.com/u/59758427?s=200&v=4" height="35" alt="Airbyte"/>
 </p>
 
-**Big Data & Distributed**  
+**Big Data & Distributed Systems**  
 <p>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="35" alt="Kafka"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" height="35" alt="Kafka"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" height="35" alt="Spark"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="35" alt="Hadoop"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" height="35" alt="Flink"/>
+</p>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" height="35" alt="Hive"/>
+  <img src="https://avatars.githubusercontent.com/u/38311550?s=200&v=4" height="35" alt="Superset"/>
+  <img src="https://avatars.githubusercontent.com/u/23168436?s=200&v=4" height="35" alt="Great Expectations"/>
   <img src="https://skillicons.dev/icons?i=docker,linux" height="35"/>
 </p>
 
@@ -53,7 +59,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 
 **ML Frameworks**  
 <p>
@@ -71,7 +77,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 **AI Agents & Automation**  
 <p>
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="35" alt="CrewAI"/>
-  <img src="https://www.vectorlogo.zone/logos/n8nio/n8nio-icon.svg" height="35" alt="n8n"/>
+  <img src="https://avatars.githubusercontent.com/u/69029657?s=200&v=4" height="35" alt="n8n"/>
 </p>
 
 **Cloud Data Platforms**  
@@ -115,7 +121,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kpatc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -136,8 +142,5 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
   </a>
   <a href="mailto:josuekpatcha1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kpatc">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
