@@ -7,65 +7,60 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me (Short & Professional)
 
-📌 Final-year Data Engineering student at ENSA Al Hoceima  
-🚀 Passionate about Data Pipelines, Distributed Systems & Applied AI  
-🧠 I build data platforms, predictive models, and intelligent APIs  
-☁️ Exploring GCP, Snowflake, Databricks & scalable ML systems  
-🤖 Interested in LLMs, RAG, Agentic Systems & real-world AI automation  
+🎓 Final-year Data Engineering student  
+🔧 I build scalable data pipelines, distributed systems & ML-powered APIs  
+☁️ Exploring GCP, Snowflake, Databricks & modern cloud data stacks  
+🤖 Passionate about Machine Learning, LLMs, RAG & agentic AI systems  
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Technical Skills (Full Icons Only)
 
 ### 📊 **Data Engineering & Big Data**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,kafka,docker,postgres,mongodb,redis,linux" /><br/>
-  <img src="https://skillicons.dev/icons?i=airflow" />  
-</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis" height="45"/>
+  <img src="https://skillicons.dev/icons?i=kafka,spark,docker,linux" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github,git" height="45"/><br/>
 
-- **Pipelines & Orchestration**: Airflow, Dagster, dbt, Airbyte  
-- **Distributed Processing**: Apache Spark, PySpark  
-- **Architecture**: ETL/ELT, Warehouses, Lakehouse, Data Lakes (MinIO, S3)  
-- **Data Quality & Observability**: Great Expectations, Monte Carlo (learning)  
-- **Streaming & Messaging**: Kafka, Spark Structured Streaming  
-- **Storage & Modeling**: PostgreSQL, MySQL, MongoDB, Redis, Snowflake, BigQuery  
-- **Tools**: Hadoop ecosystem (HDFS, Hive), Superset, PowerBI  
+  <!-- Extra icons not supported by skillicons.dev (airflow, dbt, databricks, snowflake, minio) -->
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/MinIO_Logo.svg" height="45"/>
+</p>
 
 ---
 
-### 🤖 **Machine Learning & AI**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi" /><br/>
-</p>
+### 🤖 **Machine Learning, AI & NLP**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi" height="45"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="45"/>  
 
-- Classical ML: Scikit-learn, XGBoost, Feature Engineering  
-- Deep Learning: PyTorch, TensorFlow, Transformers  
-- **NLP**: BERT, DistilBERT, spaCy, NLTK  
-- **RAG & LLMs**: LangChain, LangGraph, ChromaDB, FAISS  
-- **Agentic Systems**: CrewAI, LangGraph agents  
-- Computer Vision (CNN, attention models)  
-- **MLOps & Deployment**: FastAPI, Docker, CI/CD  
+  <!-- Extra icons (HuggingFace, LangChain, LangGraph) -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/images/logo.png" height="45"/>
+</p>
 
 ---
 
 ### ☁️ **Cloud, DevOps & Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,git,github" /><br/>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="45"/>
 
-- **Cloud Data**: GCP (BigQuery, Cloud Storage), AWS (S3, Lambda)  
-- **DevOps**: Docker, Kubernetes, GitHub Actions  
-- **Backend**: FastAPI, Flask, Spring Boot (Java)  
-- **Microservices & APIs**: REST APIs, service-oriented architectures  
-- Logging & monitoring: Grafana, Prometheus  
+  <!-- Extra devops icons -->
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="45"/>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kpatc&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpatc&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
@@ -73,22 +68,13 @@
 
 ---
 
-## 🌱 Currently Learning
-- Cloud Data Warehouses (BigQuery, Snowflake)  
-- Databricks Lakehouse Architecture  
-- Data Quality & Observability  
-- LLM Agents & RAG Systems  
-
----
-
 ## 📬 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR-INSTA/">
+  <a href="https://www.instagram.com/YOUR_INSTA/">
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
   &nbsp;&nbsp;
@@ -97,7 +83,7 @@
   </a>
 </p>
 
-📧 Email: **josuekpatcha1@gmail.com**
+📧 **josuekpatcha1@gmail.com**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b76&height=150&section=footer"/>
