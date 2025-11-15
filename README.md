@@ -22,6 +22,12 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 ### 📊 Data Engineering
 
+**Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="35" alt="SQL"/>
+</p>
+
 **Pipelines & Orchestration**  
 <p>
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="35" alt="Airflow"/>
@@ -32,16 +38,16 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 **Big Data & Distributed**  
 <p>
-  <img src="https://skillicons.dev/icons?i=kafka,spark" height="35"/>
-  <img src="https://raw.githubusercontent.com/apache/hadoop/trunk/hadoop-common-project/hadoop-common/src/site/resources/images/hadoop-logo.jpg" height="35" alt="Hadoop"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="35" alt="Kafka"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" height="35" alt="Spark"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="35" alt="Hadoop"/>
   <img src="https://skillicons.dev/icons?i=docker,linux" height="35"/>
 </p>
 
 **Databases & Storage**  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="35"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis" height="35"/>
-  <img src="https://skillicons.dev/icons?i=neo4j" height="35"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" height="35" alt="Neo4j"/>
 </p>
 
 </td>
@@ -65,7 +71,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 **AI Agents & Automation**  
 <p>
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="35" alt="CrewAI"/>
-  <img src="https://cdn.prod.website-files.com/65b18d0da111867da4c10bc3/65b18d0da111867da4c10ca3_n8n-logo-sm.svg" height="35" alt="n8n"/>
+  <img src="https://www.vectorlogo.zone/logos/n8nio/n8nio-icon.svg" height="35" alt="n8n"/>
 </p>
 
 **Cloud Data Platforms**  
@@ -87,8 +93,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 
 **DevOps & Monitoring**  
 <p>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="35"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="35"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,githubactions" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="35" alt="Prometheus"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="35" alt="Grafana"/>
 </p>
