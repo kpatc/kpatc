@@ -32,7 +32,7 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
 <p>
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="35" alt="Airflow"/>
   <img src="https://docs.dagster.io/assets/logos/small.png" height="35" alt="Dagster"/>
-  <img src="https://github.com/dbt-labs/dbt-core/raw/main/etc/dbt-core.svg" height="35" alt="dbt"/>
+  <img width="100" height="60" alt="image" src="https://github.com/user-attachments/assets/7cef018e-905b-4f2d-a90f-27c988506244" />
   <img src="https://avatars.githubusercontent.com/u/59758427?s=200&v=4" height="35" alt="Airbyte"/>
 </p>
 
@@ -45,9 +45,9 @@ Passionate about **LLMs**, **RAG**, **NLP** & **agentic AI systems**.
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" height="35" alt="Hive"/>
 </p>
 <p>
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e17f8de6-3ae2-484d-bb80-ad6d7f09d57c" />
+  <img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/e17f8de6-3ae2-484d-bb80-ad6d7f09d57c" />
 
-  <img width="40" height="40" src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" alt="Superset"/>
+  <img width="40" height="60" src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" alt="Superset"/>
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/885dca3d-d853-4247-b664-1145aa08d0c3" />
   <img src="https://skillicons.dev/icons?i=docker,linux" height="35"/>
 </p>
