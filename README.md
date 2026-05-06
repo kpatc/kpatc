@@ -23,15 +23,15 @@
 
 Final-year **Data Engineering** student at ENSA Al Hoceima (Morocco), targeting **Analytics & AI Consulting** roles at top-tier firms.
 
-Four years translating data into decisions: churn diagnostics for energy utilities, financial health scoring for 9,600 African SMEs, national connectivity demand modeling for Togo. Behind every insight — production pipelines on **Azure Databricks**, cloud-native platforms, and executive dashboards built to communicate, not just visualize.
+Four years translating data into decisions: churn diagnostics for energy utilities, financial health scoring for 9,600 African SMEs, national connectivity demand modeling for Togo. Behind every insight  production pipelines on **Azure Databricks**, cloud-native platforms, and executive dashboards built to communicate, not just visualize.
 
-**What makes me different:** I think like a consultant and build like an engineer. I don't stop at the model — I deliver the recommendation.
+**What makes me different:** I think like a consultant and build like an engineer. I don't stop at the model  I deliver the recommendation.
 
-> 🔵 Currently: **End-of-Studies Internship @ GeTeam** — Building an AI system for equal-value job identification under EU Pay Transparency Directive 2023/970
+> 🔵 Currently: **End-of-Studies Internship @ GeTeam**  Building an AI system for equal-value job identification under EU Pay Transparency Directive 2023/970
 
 ---
 
-## 📊 Selected Case Studies
+##  Selected Case Studies
 
 > Each project structured as a consulting engagement: problem framed, approach rigorous, impact quantified.
 
@@ -51,7 +51,7 @@ Four years translating data into decisions: churn diagnostics for energy utiliti
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Analytics & Machine Learning
+###  Analytics & Machine Learning
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="32" alt="scikit-learn"/>
   <img src="https://skillicons.dev/icons?i=python" height="32"/>
@@ -59,19 +59,18 @@ Four years translating data into decisions: churn diagnostics for energy utiliti
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="32" alt="OpenCV"/>
 </p>
 
-`Python` `SQL` `XGBoost` `LightGBM` `Scikit-learn` `Statistical Modeling`  
-`Feature Engineering` `A/B Testing` `Power BI` `Tableau` `Seaborn`
+`Python` `SQL` `Pandas` `TensorFlow` `Scikit-learn` `XGBoost` `LightGBM`  `Statistical Modeling`  
+`Feature Engineering` `A/B Testing` `Power BI` `Tableau` `Seaborn` `Business Analytics`  
 
 ### 🤖 AI & LLMs
 <p>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32" alt="HuggingFace"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="32" alt="LangChain"/>
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="32" alt="CrewAI"/>
-  <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" height="32" alt="Neo4j"/>
 </p>
 
-`LangChain` `LangGraph` `RAG` `ChromaDB` `FAISS` `CamemBERT`  
-`Groq` `Claude API` `Langfuse` `MCP` `HuggingFace` `SHAP`
+`LangChain` `LangGraph` `RAG` `CrewAI` `Vector Database` `LoRA`  
+`Claude Code` `Langfuse` `MCP` `HuggingFace` `SHAP` `Bifrost` `LiteLLM`
 
 </td>
 <td width="50%" valign="top">
@@ -82,13 +81,15 @@ Four years translating data into decisions: churn diagnostics for energy utiliti
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" height="32" alt="Spark"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="32" alt="Databricks"/>
   <img src="https://avatars.githubusercontent.com/u/59758427?s=200&v=4" height="32" alt="Airbyte"/>
+  <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" height="32" alt="Neo4j"/>
+
 </p>
 
 `Apache Kafka` `Apache Spark` `dbt` `Airflow` `Airbyte`  
 `Azure Databricks` `Delta Lake` `Snowflake` `PostgreSQL`  
 `Great Expectations` `Medallion Architecture`
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp" height="32"/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="32"/>
@@ -97,41 +98,14 @@ Four years translating data into decisions: churn diagnostics for energy utiliti
 </p>
 
 `GCP` `Azure` `AWS` `Docker` `Kubernetes` `Terraform`  
-`Prometheus` `Grafana` `CI/CD` `FastAPI`
+`Prometheus` `Grafana` `CI/CD` `FastAPI` `Flask`
 
 </td>
 </tr>
 </table>
 
----
 
-## 💼 Experience
-
-**🔵 Data & AI Engineer Intern — PFE** · GeTeam · Casablanca *(Mar 2026 – Present)*  
-Building an AI system for equal-value job identification under EU Pay Transparency Directive 2023/970. CamemBERT fine-tuning · FAISS semantic mapping · Neo4j knowledge graph (300+ CCNs) · 3-agent LLM scoring system · SHAP explainability.
-
-**AI & Data Engineering Intern** · ISICOD · Rabat *(Jun – Sep 2025)*  
-Co-built biometric AI platform: 9,246-image fingerprint dataset (12 classes), MobileNetV2 macro F1 = 0.77. Sole implementer of Human-in-the-Loop retraining system.
-
-**Machine Learning Engineer Intern** · 3D Smart Factory · Mohammedia *(Jun – Aug 2024)*  
-Custom KAN layers integrated into 3D U-Net for medical image segmentation — **+3% accuracy** over standard baseline.
-
----
-
-## 🎓 Education
-
-**Engineer's Degree — Data Engineering** · ENSA Al Hoceima *(2023 – 2026)*  
-**Integrated Preparatory Classes — Applied Mathematics** · ENSA Fès *(2021 – 2023)*
-
----
-
-## 🏅 Certifications
-
-`Oracle Cloud GenAI Professional` · `Duke University: Spark, Hadoop & Snowflake` · `AI Agents Fundamentals — HuggingFace` · `AWS Cloud Practitioner` · `Neo4j Certified Professional` · `BCG X Data Science Simulation` · `BCG GenAI Simulation`
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kpatc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
