@@ -31,20 +31,6 @@ Four years translating data into decisions: churn diagnostics for energy utiliti
 
 ---
 
-##  Selected Case Studies
-
-> Each project structured as a consulting engagement: problem framed, approach rigorous, impact quantified.
-
-| Project | Context | Key Result |
-|---------|---------|------------|
-| [**PowerCo Churn Analysis**](https://github.com/kpatc/PowerCo-Churn-Prediction-BCG) | BCG X Analytics Simulation | Reframed hypothesis: margin > price as churn driver · XGBoost ROC-AUC = 0.68, Precision = 0.96 |
-| [**AI Financial Analyzer**](https://github.com/kpatc/Ai-Financial-Analyzer) | BCG GenAI Consulting Simulation | RAG system on 34 companies × 3 years SEC filings · 20+ KPIs · Langfuse observability |
-| [**SME Financial Health Prediction**](https://github.com/kpatc/financial_health_index_prediction) | Zindi Africa Competition | 9,618 businesses · 4 countries · F1 = 0.82 weighted · FastAPI scoring API deployed |
-| [**Togo Internet Uptake Prediction**](https://github.com/kpatc/MLTasks-Competitions) | Zindi Africa Competition · National Policy | ~14,400 rows · ~4,000 features · XGBoost ROC-AUC = 0.86 · Guiding FTTH investment |
-| [**Job Market Intelligence Platform**](https://github.com/kpatc/Job-intelligent) | Data Engineering · Analytics | HDBSCAN clustering · Power BI dashboards · Skill-demand quantification by segment |
-
----
-
 ## 🛠 Technical Stack
 
 <table>
