@@ -1,5 +1,6 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1526,100:1a56db&height=200&section=header&text=Essohanam%20Josué%20KPATCHA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20Analytics%20Consulting%20Track&descSize=16&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:003b76&height=200&section=header&text=Josué%20KPATCHA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h3 align="center">Turning messy data into decisions that move businesses forward</h3>
@@ -91,13 +92,15 @@ Four years translating data into decisions: churn diagnostics for energy utiliti
 </table>
 
 
-##  GitHub Stats
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kpatc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpatc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kpatc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpatc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,100:0d1526&height=100&section=footer"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpatc&theme=tokyonight&hide_border=true" height="165"/>
 </p>
