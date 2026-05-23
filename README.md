@@ -46,7 +46,7 @@ Four years translating data into decisions: churn diagnostics for energy utiliti
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="32" alt="OpenCV"/>
 </p>
 
-`Python` `SQL` `Pandas` `TensorFlow` `Scikit-learn` `XGBoost` `LightGBM`  `Statistical Modeling`  
+`Python` `SQL` `Pandas` `Matplotlib` `Pytorch` `TensorFlow` `Scikit-learn` `XGBoost` `LightGBM`  `Statistical Modeling`  
 `Feature Engineering` `A/B Testing` `Power BI` `Tableau` `Seaborn` `Business Analytics`  
 
 ### 🤖 AI & LLMs
