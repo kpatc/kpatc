@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-Final-year **Data Engineering** student at ENSA Al Hoceima (Morocco), targeting **Analytics & AI Consulting** roles at top-tier firms.
+Final-year **Data Engineering** student at ENSA Al Hoceima (Morocco), targeting **Analytics & AI Consulting** roles .
 
 Four years translating data into decisions: churn diagnostics for energy utilities, financial health scoring for 9,600 African SMEs, national connectivity demand modeling for Togo. Behind every insight  production pipelines on **Azure Databricks**, cloud-native platforms, and executive dashboards built to communicate, not just visualize.
 
