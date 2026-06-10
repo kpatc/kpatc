@@ -102,5 +102,5 @@ Four years translating data into decisions: churn diagnostics for energy utiliti
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpatc&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=kpatc&theme=tokyonight&hide_border=true" height="165"/>
 </p>
