@@ -93,14 +93,16 @@ Four years translating data into decisions: churn diagnostics for energy utiliti
 
 
 ---
+## 📊 GitHub Stats
 
-## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kpatc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpatc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kpatc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpatc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=kpatc&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=kpatc&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
+
