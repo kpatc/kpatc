@@ -22,11 +22,15 @@
 
 ## 👋 About Me
 
-Final-year **Data Engineering** student at ENSA Al Hoceima (Morocco), targeting **Analytics & AI Consulting** roles .
+Data Scientist and AI Engineer who turns complex data into decisions that matter.
+ 
+Three internships, 15+ production projects: diagnosed a $32.4M retail margin crisis across 504K transactions, scored the financial health of 9,618 African SMEs, forecasted electricity demand for 5 Moroccan cities, and built an NLP compliance pipeline for EU Pay Transparency regulation.
+ 
+What I build: end-to-end ML systems (XGBoost, LightGBM, PyTorch, SHAP, MLflow), agentic RAG pipelines with hallucination detection and evaluation gates (Ragas, DeepEval, Langfuse), and GenAI copilots that let decision-makers interrogate live analytics in natural language.
+ 
+The hardest part is never the model. It's framing the right problem and communicating the finding to someone who needs to act on it. I've trained in McKinsey's framework for exactly that: hypothesis-led problem solving, MECE issue trees, and the Pyramid Principle.
 
-Four years translating data into decisions: churn diagnostics for energy utilities, financial health scoring for 9,600 African SMEs, national connectivity demand modeling for Togo. Behind every insight  production pipelines on **Azure Databricks**, cloud-native platforms, and executive dashboards built to communicate, not just visualize.
-
-**What makes me different:** I think like a consultant and build like an engineer. I don't stop at the model  I deliver the recommendation.
+Data engineering is my foundation: Airflow, dbt, Snowflake, Kafka, Spark. I build the pipelines that feed the models, not just the models.
 
 > 🔵 Currently: **End-of-Studies Internship @ GeTeam**  Building an AI system for equal-value job identification under EU Pay Transparency Directive 2023/970
 
